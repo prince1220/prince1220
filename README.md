@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabion Lewis</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://i.gifer.com/5eKX.gif”>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1220&label=Profile%20views&color=0e75b6&style=flat" alt="prince1220" /> </p>
 
